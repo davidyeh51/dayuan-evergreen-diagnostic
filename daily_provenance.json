@@ -3891,7 +3891,7 @@
     "inv15_kwh": 139.5,
     "inv6_ratio": 1.009,
     "inv5_ratio": 0.975,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-12",
@@ -3902,7 +3902,7 @@
     "inv15_kwh": 466.0,
     "inv6_ratio": 1.013,
     "inv5_ratio": 0.972,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-13",
@@ -3913,7 +3913,7 @@
     "inv15_kwh": 534.4,
     "inv6_ratio": 1.005,
     "inv5_ratio": 0.965,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-14",
@@ -3935,7 +3935,7 @@
     "inv15_kwh": 295.1,
     "inv6_ratio": 1.007,
     "inv5_ratio": 0.976,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-16",
@@ -3946,7 +3946,7 @@
     "inv15_kwh": 546.0,
     "inv6_ratio": 1.009,
     "inv5_ratio": 0.97,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-17",
@@ -3957,7 +3957,7 @@
     "inv15_kwh": 617.0,
     "inv6_ratio": 1.014,
     "inv5_ratio": 0.974,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-18",
@@ -3968,7 +3968,7 @@
     "inv15_kwh": 613.6,
     "inv6_ratio": 1.014,
     "inv5_ratio": 0.971,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-19",
@@ -3979,7 +3979,7 @@
     "inv15_kwh": 599.0,
     "inv6_ratio": 1.016,
     "inv5_ratio": 0.975,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-20",
@@ -3990,7 +3990,7 @@
     "inv15_kwh": 564.9,
     "inv6_ratio": 1.016,
     "inv5_ratio": 0.973,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
   },
   {
     "date": "2026-09-21",
@@ -4001,6 +4001,28 @@
     "inv15_kwh": 589.0,
     "inv6_ratio": 1.017,
     "inv5_ratio": 0.973,
-    "status": "改善後高效率"
+    "status": "Inv5 復歸但效率僅93%"
+  },
+  {
+    "date": "2026-09-22",
+    "inv1_kwh": 588.3,
+    "inv5_kwh": 573.0,
+    "inv6_kwh": 596.7,
+    "inv7_kwh": 619.0,
+    "inv15_kwh": 594.0,
+    "inv6_ratio": 1.014,
+    "inv5_ratio": 0.974,
+    "status": "Inv5 復歸但效率僅93%"
+  },
+  {
+    "date": "2026-09-23",
+    "inv1_kwh": 572.1,
+    "inv5_kwh": 557.2,
+    "inv6_kwh": 580.8,
+    "inv7_kwh": 597.3,
+    "inv15_kwh": 576.4,
+    "inv6_ratio": 1.015,
+    "inv5_ratio": 0.974,
+    "status": "Inv5 復歸但效率僅93%"
   }
 ]
