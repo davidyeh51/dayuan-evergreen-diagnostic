@@ -158,15 +158,15 @@
   {
     "rank": 13,
     "inv": "Inv11",
-    "kwp": 115.15,
+    "kwp": 115.5,
     "total_kwh": 130376.0,
-    "total_ey": 1132.23,
-    "ratio_to_benchmark": 0.9661,
-    "ratio_to_median": 0.9832,
-    "shortfall_kwh_vs_bm": 4570.8,
-    "shortfall_rev_vs_bm": 22671.0,
-    "avg_pr": 77.8,
-    "tag": "normal"
+    "total_ey": 1128.8,
+    "ratio_to_benchmark": 0.9632,
+    "ratio_to_median": 0.9802,
+    "shortfall_kwh_vs_bm": 4981.0,
+    "shortfall_rev_vs_bm": 24706.0,
+    "avg_pr": 77.5,
+    "tag": "warn"
   },
   {
     "rank": 14,
